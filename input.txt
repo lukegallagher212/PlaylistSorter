@@ -1,0 +1,23 @@
+Hotel California, 23, 47, 1, Daily Mix 2
+Billie Jean, 47, 34, 5, Daily Mix 2
+Dancing Queen, 62, 27, 8, Daily Mix 1
+Smells Like Teen Spirit, 13, 41, 2, Daily Mix 2
+Poker Face, 78, 21, 1, Daily Mix 1
+Jackson, 25, 1, 70, Daily Mix 3
+Jolene, 21, 4, 75, Daily Mix 3
+Dance the Night Away, 32, 1, 64, Daily Mix 3
+Before He Cheats, 1, 13, 71, Daily Mix 3
+Take on Me, 46, 43, 1, Daily Mix 1
+I Will Always Love You, 20, 65, 2, Daily Mix 1
+Purple Haze, 19, 24, 5
+Levitating, 87, 3, 0, None
+Toxic, 67, 20, 4, Daily Mix 1
+Superstition, 40, 53, 9, Daily Mix 2
+Always on My Mind, 20, 9, 79
+Stairway to Heaven, 32, 61, 4, Daily Mix 2
+I Want It That Way, 80, 12, 11, Daily Mix 1
+Need You Now, 32, 16, 52, Daily Mix 3
+Single Ladies, 52, 10, 5, Daily Mix 1
+Take Me Home Country Roads, 6, 4, 89, Daily Mix 3
+Ring of Fire, 14, 4, 79, Daily Mix 3
+Free Bird, 17, 62, 9, Daily Mix 2
